@@ -1,7 +1,11 @@
 Python script that helps to switch between workspaces by selecting the desired application in the context menu of wofi
 
 ---
-![video](./video.mp4)
+
+
+https://github.com/user-attachments/assets/30561ba7-e1c9-4827-b2c9-889c71480fa5
+
+
 
 ---
 
