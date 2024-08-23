@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/30561ba7-e1c9-4827-b2c9-889c71480fa5
  ```
  ....
  
- bind = ALT, tab, exec, python ~/hypr/scripts/hyprland_wofi_tabs.py
+ bind = ALT, tab, exec, python ~/.config/hypr/scripts/hyprland_wofi_tabs.py
  
  ....
 
